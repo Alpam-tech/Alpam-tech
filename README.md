@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**Alpam-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Alpam-tech** is a ✨ _special_ ✨ repository of my profile
 
 - 🔭 I’m currently studying at SDU University
 - 🌱 I’m currently learning Java
